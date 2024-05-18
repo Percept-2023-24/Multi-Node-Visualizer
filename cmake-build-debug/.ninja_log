@@ -1,0 +1,32 @@
+# ninja log v5
+14	999	1716069620899511134	build.ninja	ee91b099198d49b9
+25	172	1716068393480053990	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+173	3733	1716068397025483226	CMakeFiles/Percept__Multi_node_UI.dir/main.cpp.o	8ca99055591344e3
+25	172	1716068393480053990	Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+3733	3925	1716068397228413927	Percept__Multi_node_UI	b52256010a9c6a13
+25	172	1716068393480053990	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+25	172	1716068393480053990	Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+444	571	1716068342855316374	CMakeFiles/Percept__Multi_node_UI.dir/Percept__Multi_node_UI_autogen/mocs_compilation.cpp.o	f83c5d69cb4605ba
+17	615	1716069620899511134	build.ninja	ee91b099198d49b9
+23	105	1716069621033858763	Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+23	105	1716069621033858763	Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+23	105	1716069621033858763	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+23	105	1716069621033858763	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+106	4524	1716069625428389358	CMakeFiles/Percept__Multi_node_UI.dir/main.cpp.o	8ca99055591344e3
+4524	4725	1716069625646248548	Percept__Multi_node_UI	b52256010a9c6a13
+53	204	1716070488810266572	Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+53	204	1716070488810266572	Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+53	204	1716070488810266572	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+53	204	1716070488810266572	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+24	129	1716070507149719690	Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+24	129	1716070507149719690	Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+24	129	1716070507149719690	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+24	129	1716070507149719690	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+131	2882	1716070509889323824	CMakeFiles/Percept__Multi_node_UI.dir/main.cpp.o	8ca99055591344e3
+2883	3057	1716070510071955368	Percept__Multi_node_UI	b52256010a9c6a13
+39	183	1716070638741035739	Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+39	183	1716070638741035739	Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+39	183	1716070638741035739	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/timestamp	d2c0ce0ad8ec6f35
+39	183	1716070638741035739	/Users/tyler/CLionProjects/Percept: Multi-node UI/cmake-build-debug/Percept__Multi_node_UI_autogen/mocs_compilation.cpp	d2c0ce0ad8ec6f35
+184	3582	1716070642122816220	CMakeFiles/Percept__Multi_node_UI.dir/main.cpp.o	8ca99055591344e3
+3582	3727	1716070642279619908	Percept__Multi_node_UI	b52256010a9c6a13
